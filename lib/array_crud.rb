@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  scarborough_fair = ["parsley", "sage", "rosemary", "thyme"]
+  $regalia = ["magic", "madness", "heaven", "sin"]
 end
 
 def add_element_to_end_of_array(array, element)
